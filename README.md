@@ -1,0 +1,3 @@
+**Execute**:
+
+`bash init.sh`
